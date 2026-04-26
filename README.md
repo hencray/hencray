@@ -1,16 +1,20 @@
-## Hi there 👋
+# Henry Martija
 
-<!--
-**hencray/hencray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Operations @ Meta — based in Oakland, CA.
 
-Here are some ideas to get you started:
+I work in product ops by day and build small tools at night — mostly Python utilities, browser/MCP integrations for Claude Code, and a personal trading-research stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently building
+
+- **[notebooklm-splitter](https://github.com/hencray/notebooklm-splitter)** — Splits long videos to fit NotebookLM's 200 MB / 60 min upload caps via ffmpeg stream-copy. Lossless, fast, also installable as a Claude Code plugin.
+- **[cray-browser](https://github.com/hencray/cray-browser)** — Browser automation MCP server for Claude Code. Eight tools, real Chrome control via DevTools Protocol + native messaging.
+- **trader-library** *(private)* — Python pipeline for trading-video ingestion, vision analysis, market-data enrichment, and an MCP query layer.
+
+## Stack
+
+Python · TypeScript · JavaScript · MCP servers · ffmpeg · FastAPI · Docker
+
+## Reach me
+
+- LinkedIn: [henry-martija](https://www.linkedin.com/in/henry-martija/)
+- Email: henrymartija@gmail.com
